@@ -176,7 +176,7 @@ python py/factorize_collation.py -w "zw-" -s "*" -s "T" -t defective -z lac -p 0
 Since `--verbose` flag is not specified, no status messages will be printed to the console.
 The output (consisting of a summary sheet, basis and mixture matrices, and a fragmentary witness classification matrix) will be written to the `3_john_tfidf_rank_14_results.xlsx` Excel file.
 
-### Rank Estimation, NTVMR Input
+### Factorization, NTVMR Input
 
 To perform a full factorization of the entire ECM Acts collation into 12 clusters using the same processing parameters as before:
 
